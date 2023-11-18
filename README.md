@@ -27,4 +27,5 @@ Mã Nguồn Được Share Hoàn Toàn Miễn Phí, Vui Lòng Không Mang Bán L
 
 # Khác
 - Chân Thành Cảm Ơn LGL Modder Team https://github.com/LGLTeam/Android-Mod-Menu
-- Kiểm Tra Update Source Tại: https://github.com/ImTienNguyenZ/SourceCheatLienQuan/release `Và Xem Phiên Bản Game Để Download Nhé`
+- Kiểm Tra Update Source Tại: https://github.com/ImTienNguyenZ/SourceCheatLienQuan/releases 
+`Và Xem Phiên Bản Game Để Download Nhé`
