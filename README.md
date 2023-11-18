@@ -12,14 +12,14 @@ ModMenu Liên Quân Mobile, Hỗ Trợ Android 6+ - 13.
 Mã Nguồn Được Share Hoàn Toàn Miễn Phí, Vui Lòng Không Mang Bán Lại Dưới Mọi Hình Thức!
 
 # Chức Năng
-[x] Hack Map
-[x] Cam Xa
-[x] Unlock Fps
-[x] Ẩn Tên
-[x] Hủy Hồi Chiêu
-[x] Show Info Hero
-[x] Show Lịch Sử Đấu
-[-] Bypass
+- [x] Hack Map
+- [x] Cam Xa
+- [x] Unlock Fps
+- [x] Ẩn Tên
+- [x] Hủy Hồi Chiêu
+- [x] Show Info Hero
+- [x] Show Lịch Sử Đấu
+- [ ] Bypass
 ``Đây Là Đồ Miễn Phí Nên Ae Đừng Đòi Hỏi Gì Nhé!!``
 
 # Demo
